@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UserService_Core6Api.props" />
+</Project>
